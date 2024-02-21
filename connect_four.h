@@ -1,6 +1,3 @@
-//
-// Created by Lab Tech on 2/20/2024.
-//
 
 #ifndef FOLDERC___CONNECT_FOUR_H
 #define FOLDERC___CONNECT_FOUR_H

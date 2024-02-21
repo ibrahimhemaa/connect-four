@@ -1,6 +1,4 @@
-//
-// Created by Lab Tech on 2/20/2024.
-//
+
 #include "connect_four.h"
 using namespace std;
 int32_t main() {
