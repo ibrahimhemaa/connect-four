@@ -14,7 +14,7 @@ int32_t main() {
         cout<<"Player "<<flip+1<<" go play :";
         cin>>column;
         column--;
-        if(column<0 || column>=8 ||game.grid[0][column]!=' ' ) { continue; }
+        if(column<0 || column>=6 ||game.grid[0][column]!=' ' ) { continue; }
         int last=6;
         while (game.grid[last][column]!=' ' ){
             last--;
