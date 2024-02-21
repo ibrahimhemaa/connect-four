@@ -27,7 +27,7 @@ int32_t main() {
         }
         counter++;
         flip=!flip;
-        if(counter==7*8){
+        if(counter==7*6){
             game.print();
             game.clear();
             game.print();
