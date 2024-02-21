@@ -9,7 +9,7 @@ public:
     void clear(){
         cout<<"Start New Game\n";
         for (int i = 0; i < 7; ++i) {
-            for (int j = 0; j < 8; ++j) {
+            for (int j = 0; j < 6; ++j) {
                 grid[i][j]=' ';
             }
         }
